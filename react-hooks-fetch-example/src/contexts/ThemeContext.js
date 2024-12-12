@@ -15,3 +15,7 @@ export const ThemeProvider = ({ children }) => {
     </ThemeContext.Provider>
   );
 };
+// Practice Concepts:
+
+//useContext to share and use the theme state across components.
+//useState to toggle the theme.

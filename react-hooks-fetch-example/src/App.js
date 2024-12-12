@@ -1,3 +1,4 @@
+//sample code to fetch data from api
 // import React from 'react';
 // import UserList from './components/UserList';
 // import AutoCounter from './AutoCounter';
@@ -13,6 +14,8 @@
 // }
 
 // export default App;
+
+
 import React from "react";
 import AppRouter from "./Router";
 import { ThemeProvider } from "./contexts/ThemeContext";

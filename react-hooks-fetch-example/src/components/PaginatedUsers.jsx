@@ -54,3 +54,9 @@ const PaginatedUsers = () => {
 };
 
 export default PaginatedUsers;
+
+
+//Practice Concepts:
+
+//useState to manage users, page, and loading.
+//useEffect to fetch data when the page changes.
